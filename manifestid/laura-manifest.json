@@ -615,10 +615,18 @@
               "id": "https://rara-digilab.github.io/iiif-andmeamps/manifestid/laura/canvas/p2/annotations/a1",
               "type": "Annotation",
               "motivation": "commenting",
-              "body": {
-                "type": "TextualBody",
-                "value": "Sild"
-              },
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "Bridge",
+                  "language": "en"
+                },
+                {
+                  "type": "TextualBody",
+                  "value": "Sild",
+                  "language": "et"
+                }
+              ],
               "target": {
                 "type": "SpecificResource",
                 "source": "https://rara-digilab.github.io/iiif-andmeamps/manifestid/laura/canvas/p2",
