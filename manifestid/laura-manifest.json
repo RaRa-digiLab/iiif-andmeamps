@@ -248,7 +248,7 @@
               "motivation": "commenting",
               "body": {
                 "type": "TextualBody",
-                "value": "Märkus:\n\nKrunt Nr. 1 ... pansioon.\n• Nr. 2 ... koolimaja või mängu-paviljon.\n• Nr. 3 ... tööstuskoht.\n• Nr.nr. 5,6,11,13 ja 60 ... ärikohad.\n• Nr 61 ... mänguplats.\n• Nr.nr. 4,7,8,9,10 ja 12 ... eluasemekohad\n• Nr.nr. 14-59 ... ehiluskohad."
+                "value": "Märkus:\n\nKrunt Nr. 1 ... pansioon.\n• Nr. 2 ... koolimaja või mängu-paviljon.\n• Nr. 3 ... tööstuskoht.\n• Nr.nr. 5,6,11,13 ja 60 ... ärikohad.\n• Nr 61 ... mänguplats.\n• Nr.nr. 4,7,8,9,10 ja 12 ... eluasemekohad\n• Nr.nr. 14-59 ... ehituskohad."
               },
               "target": {
                 "type": "SpecificResource",
