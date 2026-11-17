@@ -378,9 +378,21 @@
               "type": "Annotation",
               "motivation": "commenting",
               "body": {
-                "type": "TextualBody",
-                "value": "Sild",
-                "language": "et"
+                "type": "Choice",
+                "items": [
+                  {
+                    "type": "TextualBody",
+                    "value": "Bridge",
+                    "language": "en",
+                    "format": "text/plain"
+                  },
+                  {
+                    "type": "TextualBody",
+                    "value": "Sild",
+                    "language": "et",
+                    "format": "text/plain"
+                  }
+                ]
               },
               "target": {
                 "type": "SpecificResource",
