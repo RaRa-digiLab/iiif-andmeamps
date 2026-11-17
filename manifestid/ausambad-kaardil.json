@@ -1,0 +1,1162 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json",
+  "type": "Manifest",
+  "label": {
+    "et": [
+      "Ausambad kaardil"
+    ],
+    "en": [
+      "Monuments on the Map"
+    ]
+  },
+  "summary": {
+    "et": [
+      "Interaktiivne Eesti kaart, millel on kujutatud postkaarte Eesti ausammastest."
+    ],
+    "en": [
+      "An interactive map of Estonia featuring postcards of monuments."
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Rights"
+      ],
+      "et": [
+        "Kasutuslitsents"
+      ]
+    },
+    "value": {
+      "en": [
+        "Public Domain Mark"
+      ],
+      "et": [
+        "Teos on vabakasutuses"
+      ]
+    }
+  },
+  "rights": "https://creativecommons.org/publicdomain/mark/1.0/deed.en",
+  "provider": [
+    {
+      "id": "https://www.wikidata.org/wiki/Q609471",
+      "type": "Agent",
+      "label": {
+        "en": [
+          "National Library of Estonia"
+        ],
+        "et": [
+          "Eesti Rahvusraamatukogu"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://www.rara.ee",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "en": [
+              "National Library of Estonia Homepage"
+            ],
+            "et": [
+              "Eesti Rahvusraamatukogu Koduleht"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/i2tibfgdzei-mwkkxpbi",
+      "type": "Canvas",
+      "height": 1145,
+      "width": 1253,
+      "label": {
+        "en": [
+          "Eesti"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/i2tibfgdzei-mwkkxpbi/annotation-page/njvukfo6ev-mwkkxpbi",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/annotation/tu6pq2kb11h-mwkkxods",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/i2tibfgdzei-mwkkxpbi",
+              "body": {
+                "id": "https://ia601005.us.archive.org/34/items/postkaardid_2026/kaart.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1145,
+                "width": 1253
+              }
+            },
+            {
+              "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/annotation/map-parnu-thumb",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/i2tibfgdzei-mwkkxpbi#xywh=550,497,115,178",
+              "body": {
+                "id": "https://ia601005.us.archive.org/34/items/postkaardid_2026/Parnu.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 795,
+                "width": 512
+              }
+            },
+            {
+              "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/annotation/map-tallinn-thumb",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/i2tibfgdzei-mwkkxpbi#xywh=572,102,185,119",
+              "body": {
+                "id": "https://ia601005.us.archive.org/34/items/postkaardid_2026/Tallinn.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 535,
+                "width": 829
+              }
+            },
+            {
+              "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/annotation/map-viljandi-thumb",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/i2tibfgdzei-mwkkxpbi#xywh=695,542,165,105",
+              "body": {
+                "id": "https://ia601005.us.archive.org/34/items/postkaardid_2026/Viljandi.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 494,
+                "width": 777
+              }
+            },
+            {
+              "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/annotation/map-tartu-thumb",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/i2tibfgdzei-mwkkxpbi#xywh=906,494,116,181",
+              "body": {
+                "id": "https://ia601005.us.archive.org/34/items/postkaardid_2026/Tartu.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 820,
+                "width": 525
+              }
+            },
+            {
+              "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/annotation/map-woro-thumb",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/i2tibfgdzei-mwkkxpbi#xywh=879,725,94,171",
+              "body": {
+                "id": "https://ia601005.us.archive.org/34/items/postkaardid_2026/Woro.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 422,
+                "width": 232
+              }
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/i2tibfgdzei-mwkkxpbi/annotations/625cjtwxowx-mwklvgno",
+          "type": "AnnotationPage",
+          "label": {
+            "en": [
+              "Inline annotations"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/annotation/link-parnu",
+              "type": "Annotation",
+              "motivation": "linking",
+              "target": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/i2tibfgdzei-mwkkxpbi#xywh=550,497,115,178",
+              "body": {
+                "type": "SpecificResource",
+                "source": {
+                  "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/r35n0pgcive-mwkkxq1l",
+                  "type": "Canvas",
+                  "partOf": [
+                    {
+                      "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json",
+                      "type": "Manifest"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/annotation/link-tallinn",
+              "type": "Annotation",
+              "motivation": "linking",
+              "target": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/i2tibfgdzei-mwkkxpbi#xywh=572,102,185,119",
+              "body": {
+                "type": "SpecificResource",
+                "source": {
+                  "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/rftkp3ejtd9-mwkkxpwf",
+                  "type": "Canvas",
+                  "partOf": [
+                    {
+                      "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json",
+                      "type": "Manifest"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/annotation/link-viljandi",
+              "type": "Annotation",
+              "motivation": "linking",
+              "target": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/i2tibfgdzei-mwkkxpbi#xywh=695,542,165,105",
+              "body": {
+                "type": "SpecificResource",
+                "source": {
+                  "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/rb5zzu2yz7g-mwkkxpm5",
+                  "type": "Canvas",
+                  "partOf": [
+                    {
+                      "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json",
+                      "type": "Manifest"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/annotation/link-tartu",
+              "type": "Annotation",
+              "motivation": "linking",
+              "target": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/i2tibfgdzei-mwkkxpbi#xywh=906,494,116,181",
+              "body": {
+                "type": "SpecificResource",
+                "source": {
+                  "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/mmdx9jxcu2i-mwkkxpgt",
+                  "type": "Canvas",
+                  "partOf": [
+                    {
+                      "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json",
+                      "type": "Manifest"
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/annotation/link-woro",
+              "type": "Annotation",
+              "motivation": "linking",
+              "target": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/i2tibfgdzei-mwkkxpbi#xywh=879,725,94,171",
+              "body": {
+                "type": "SpecificResource",
+                "source": {
+                  "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/i3ztwonpkgl-mwkkxpra",
+                  "type": "Canvas",
+                  "partOf": [
+                    {
+                      "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json",
+                      "type": "Manifest"
+                    }
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Alternative Title"
+            ],
+            "et": [
+              "Rööppealkiri"
+            ]
+          },
+          "value": {
+            "none": [
+              "Eesti kaart koolidele"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Publisher"
+            ],
+            "et": [
+              "Kirjastaja"
+            ]
+          },
+          "value": {
+            "none": [
+              "Tallinna Eesti Kirjastus-Ühisus"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Place of publication"
+            ],
+            "et": [
+              "Ilmumiskoht"
+            ]
+          },
+          "value": {
+            "none": [
+              "Tallinn"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Date of publication"
+            ],
+            "et": [
+              "Ilmumisaeg"
+            ]
+          },
+          "value": {
+            "none": [
+              "1938"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Language"
+            ],
+            "et": [
+              "Keel"
+            ]
+          },
+          "value": {
+            "en": [
+              "Estonian"
+            ],
+            "et": [
+              "eesti"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Material Type"
+            ],
+            "et": [
+              "Teose laad"
+            ]
+          },
+          "value": {
+            "en": [
+              "map"
+            ],
+            "et": [
+              "kaart"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Cartographer"
+            ],
+            "et": [
+              "Kartograaf"
+            ]
+          },
+          "value": {
+            "none": [
+              "Jüris, Johannes Leopold"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Keywords"
+            ],
+            "et": [
+              "Märksõnad"
+            ]
+          },
+          "value": {
+            "en": [
+              "Estonia",
+              "geographical maps",
+              "study maps"
+            ],
+            "et": [
+              "Eesti (riik)",
+              "kaardid (vormimärksõna)",
+              "õppekaardid (vormimärksõna)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/r35n0pgcive-mwkkxq1l",
+      "type": "Canvas",
+      "height": 795,
+      "width": 512,
+      "label": {
+        "en": [
+          "Lydia Koidula"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/r35n0pgcive-mwkkxq1l/annotation-page/8q6lq7ayq5f-mwkkxq1l",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/annotation/lxu0ixu6dyf-mwkkxpwf",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/r35n0pgcive-mwkkxq1l",
+              "body": {
+                "id": "https://ia601005.us.archive.org/34/items/postkaardid_2026/Parnu.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 795,
+                "width": 512
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Publisher"
+            ],
+            "et": [
+              "Kirjastaja"
+            ]
+          },
+          "value": {
+            "none": [
+              "M. Õnnis"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Place of publication"
+            ],
+            "et": [
+              "Ilmumiskoht"
+            ]
+          },
+          "value": {
+            "none": [
+              "[Pärnu]"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Date of publication"
+            ],
+            "et": [
+              "Ilmumisaeg"
+            ]
+          },
+          "value": {
+            "none": [
+              "1929"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Language"
+            ],
+            "et": [
+              "Keel"
+            ]
+          },
+          "value": {
+            "en": [
+              "Estonian"
+            ],
+            "et": [
+              "eesti"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Material Type"
+            ],
+            "et": [
+              "Teose laad"
+            ]
+          },
+          "value": {
+            "en": [
+              "postcard"
+            ],
+            "et": [
+              "postkaart"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Photographer"
+            ],
+            "et": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "none": [
+              "Õnnis, Mihkel"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Keywords"
+            ],
+            "et": [
+              "Märksõnad"
+            ]
+          },
+          "value": {
+            "en": [
+              "memorials",
+              "Pärnu",
+              "photographs",
+              "postcards"
+            ],
+            "et": [
+              "mälestusmärgid",
+              "Pärnu",
+              "fotod (vormimärksõna)",
+              "postkaardid (vormimärksõna)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/rftkp3ejtd9-mwkkxpwf",
+      "type": "Canvas",
+      "height": 535,
+      "width": 829,
+      "label": {
+        "en": [
+          "Russalka"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/rftkp3ejtd9-mwkkxpwf/annotation-page/cvqjj211klk-mwkkxpwf",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/annotation/rjr4lepk66-mwkkxpra",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/rftkp3ejtd9-mwkkxpwf",
+              "body": {
+                "id": "https://ia601005.us.archive.org/34/items/postkaardid_2026/Tallinn.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 535,
+                "width": 829
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Publisher"
+            ],
+            "et": [
+              "Kirjastaja"
+            ]
+          },
+          "value": {
+            "none": [
+              "T"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Place of publication"
+            ],
+            "et": [
+              "Ilmumiskoht"
+            ]
+          },
+          "value": {
+            "none": [
+              "Tartu"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Date of publication"
+            ],
+            "et": [
+              "Ilmumisaeg"
+            ]
+          },
+          "value": {
+            "none": [
+              "1930"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Language"
+            ],
+            "et": [
+              "Keel"
+            ]
+          },
+          "value": {
+            "en": [
+              "Estonian"
+            ],
+            "et": [
+              "eesti"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Material Type"
+            ],
+            "et": [
+              "Teose laad"
+            ]
+          },
+          "value": {
+            "en": [
+              "postcard"
+            ],
+            "et": [
+              "postkaart"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Keywords"
+            ],
+            "et": [
+              "Märksõnad"
+            ]
+          },
+          "value": {
+            "en": [
+              "Tallinn",
+              "postcards"
+            ],
+            "et": [
+              "Tallinn",
+              "postkaardid (vormimärksõna)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/i3ztwonpkgl-mwkkxpra",
+      "type": "Canvas",
+      "height": 422,
+      "width": 232,
+      "label": {
+        "en": [
+          "Dr. F. R. Kreutzwald"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/i3ztwonpkgl-mwkkxpra/annotation-page/ujs50ffbsj8-mwkkxpra",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/annotation/hytwwnbclfj-mwkkxpm6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/i3ztwonpkgl-mwkkxpra",
+              "body": {
+                "id": "https://ia601005.us.archive.org/34/items/postkaardid_2026/Woro.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 422,
+                "width": 232
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Publisher"
+            ],
+            "et": [
+              "Kirjastaja"
+            ]
+          },
+          "value": {
+            "none": [
+              "J. Niilus"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Place of publication"
+            ],
+            "et": [
+              "Ilmumiskoht"
+            ]
+          },
+          "value": {
+            "none": [
+              "[Võru]"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Date of publication"
+            ],
+            "et": [
+              "Ilmumisaeg"
+            ]
+          },
+          "value": {
+            "none": [
+              "1920"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Language"
+            ],
+            "et": [
+              "Keel"
+            ]
+          },
+          "value": {
+            "en": [
+              "Estonian"
+            ],
+            "et": [
+              "eesti"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Material Type"
+            ],
+            "et": [
+              "Teose laad"
+            ]
+          },
+          "value": {
+            "en": [
+              "postcard"
+            ],
+            "et": [
+              "postkaart"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Photographer"
+            ],
+            "et": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "none": [
+              "Niilus, Jaan"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Keywords"
+            ],
+            "et": [
+              "Märksõnad"
+            ]
+          },
+          "value": {
+            "en": [
+              "memorials",
+              "Võru",
+              "photographs",
+              "postcards"
+            ],
+            "et": [
+              "mälestusmärgid",
+              "Võru",
+              "fotod (vormimärksõna)",
+              "postkaardid (vormimärksõna)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/rb5zzu2yz7g-mwkkxpm5",
+      "type": "Canvas",
+      "height": 494,
+      "width": 777,
+      "label": {
+        "en": [
+          "lang. sõdur"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/rb5zzu2yz7g-mwkkxpm5/annotation-page/nw9swnts25b-mwkkxpm5",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/annotation/gq4cl4qjezh-mwkkxpgt",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/rb5zzu2yz7g-mwkkxpm5",
+              "body": {
+                "id": "https://ia601005.us.archive.org/34/items/postkaardid_2026/Viljandi.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 494,
+                "width": 777
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Publisher"
+            ],
+            "et": [
+              "Kirjastaja"
+            ]
+          },
+          "value": {
+            "none": [
+              "J. Riet"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Place of publication"
+            ],
+            "et": [
+              "Ilmumiskoht"
+            ]
+          },
+          "value": {
+            "none": [
+              "Wiljandi"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Date of publication"
+            ],
+            "et": [
+              "Ilmumisaeg"
+            ]
+          },
+          "value": {
+            "none": [
+              "1920"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Language"
+            ],
+            "et": [
+              "Keel"
+            ]
+          },
+          "value": {
+            "en": [
+              "Estonian"
+            ],
+            "et": [
+              "eesti"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Material Type"
+            ],
+            "et": [
+              "Teose laad"
+            ]
+          },
+          "value": {
+            "en": [
+              "postcard"
+            ],
+            "et": [
+              "postkaart"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Photographer"
+            ],
+            "et": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "none": [
+              "Riet, Jaan"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Keywords"
+            ],
+            "et": [
+              "Märksõnad"
+            ]
+          },
+          "value": {
+            "en": [
+              "memorials",
+              "war memorials",
+              "Viljandi",
+              "photographs",
+              "postcards"
+            ],
+            "et": [
+              "mälestusmärgid",
+              "sõjamälestusmärgid",
+              "Viljandi",
+              "fotod (vormimärksõna)",
+              "postkaardid (vormimärksõna)"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/mmdx9jxcu2i-mwkkxpgt",
+      "type": "Canvas",
+      "height": 820,
+      "width": 525,
+      "label": {
+        "en": [
+          "Gustav Adolf"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/mmdx9jxcu2i-mwkkxpgt/annotation-page/ww88txutyzc-mwkkxpgt",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/annotation/9lucltzix16-mwkkxpbj",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/mmdx9jxcu2i-mwkkxpgt",
+              "body": {
+                "id": "https://ia601005.us.archive.org/34/items/postkaardid_2026/Tartu.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 820,
+                "width": 525
+              }
+            }
+          ]
+        }
+      ],
+      "metadata": [
+        {
+          "label": {
+            "en": [
+              "Publisher"
+            ],
+            "et": [
+              "Kirjastaja"
+            ]
+          },
+          "value": {
+            "none": [
+              "T"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Place of publication"
+            ],
+            "et": [
+              "Ilmumiskoht"
+            ]
+          },
+          "value": {
+            "none": [
+              "Tartu"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Date of publication"
+            ],
+            "et": [
+              "Ilmumisaeg"
+            ]
+          },
+          "value": {
+            "none": [
+              "1930"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Language"
+            ],
+            "et": [
+              "Keel"
+            ]
+          },
+          "value": {
+            "en": [
+              "Estonian"
+            ],
+            "et": [
+              "eesti"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Material Type"
+            ],
+            "et": [
+              "Teose laad"
+            ]
+          },
+          "value": {
+            "en": [
+              "postcard"
+            ],
+            "et": [
+              "postkaart"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Photographer"
+            ],
+            "et": [
+              "Fotograaf"
+            ]
+          },
+          "value": {
+            "none": [
+              "Kald, Elmar"
+            ]
+          }
+        },
+        {
+          "label": {
+            "en": [
+              "Keywords"
+            ],
+            "et": [
+              "Märksõnad"
+            ]
+          },
+          "value": {
+            "en": [
+              "memorials",
+              "Tartu",
+              "postcards"
+            ],
+            "et": [
+              "mälestusmärgid",
+              "Tartu",
+              "postkaardid (vormimärksõna)"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
