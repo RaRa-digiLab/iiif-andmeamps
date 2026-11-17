@@ -377,23 +377,20 @@
               "id": "https://rara-digilab.github.io/iiif-andmeamps/manifestid/laura/canvas/p3/annotations/a1",
               "type": "Annotation",
               "motivation": "commenting",
-              "body": {
-                "type": "Choice",
-                "items": [
-                  {
-                    "type": "TextualBody",
-                    "value": "Bridge",
-                    "language": "en",
-                    "format": "text/plain"
-                  },
-                  {
-                    "type": "TextualBody",
-                    "value": "Sild",
-                    "language": "et",
-                    "format": "text/plain"
-                  }
-                ]
-              },
+              "body": [
+                {
+                  "type": "TextualBody",
+                  "value": "Bridge",
+                  "language": "en",
+                  "format": "text/plain"
+                },
+                {
+                  "type": "TextualBody",
+                  "value": "Sild",
+                  "language": "et",
+                  "format": "text/plain"
+                }
+              ],
               "target": {
                 "type": "SpecificResource",
                 "source": "https://rara-digilab.github.io/iiif-andmeamps/manifestid/laura/canvas/p3",
