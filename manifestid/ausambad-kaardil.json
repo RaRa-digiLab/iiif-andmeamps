@@ -179,17 +179,8 @@
               "motivation": "linking",
               "target": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/i2tibfgdzei-mwkkxpbi#xywh=550,497,115,178",
               "body": {
-                "type": "SpecificResource",
-                "source": {
-                  "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/r35n0pgcive-mwkkxq1l",
-                  "type": "Canvas",
-                  "partOf": [
-                    {
-                      "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json",
-                      "type": "Manifest"
-                    }
-                  ]
-                }
+                "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/r35n0pgcive-mwkkxq1l",
+                "type": "Canvas"
               }
             },
             {
@@ -198,17 +189,8 @@
               "motivation": "linking",
               "target": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/i2tibfgdzei-mwkkxpbi#xywh=572,102,185,119",
               "body": {
-                "type": "SpecificResource",
-                "source": {
-                  "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/rftkp3ejtd9-mwkkxpwf",
-                  "type": "Canvas",
-                  "partOf": [
-                    {
-                      "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json",
-                      "type": "Manifest"
-                    }
-                  ]
-                }
+                "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/rftkp3ejtd9-mwkkxpwf",
+                "type": "Canvas"
               }
             },
             {
@@ -217,17 +199,8 @@
               "motivation": "linking",
               "target": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/i2tibfgdzei-mwkkxpbi#xywh=695,542,165,105",
               "body": {
-                "type": "SpecificResource",
-                "source": {
-                  "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/rb5zzu2yz7g-mwkkxpm5",
-                  "type": "Canvas",
-                  "partOf": [
-                    {
-                      "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json",
-                      "type": "Manifest"
-                    }
-                  ]
-                }
+                "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/rb5zzu2yz7g-mwkkxpm5",
+                "type": "Canvas"
               }
             },
             {
@@ -236,17 +209,8 @@
               "motivation": "linking",
               "target": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/i2tibfgdzei-mwkkxpbi#xywh=906,494,116,181",
               "body": {
-                "type": "SpecificResource",
-                "source": {
-                  "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/mmdx9jxcu2i-mwkkxpgt",
-                  "type": "Canvas",
-                  "partOf": [
-                    {
-                      "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json",
-                      "type": "Manifest"
-                    }
-                  ]
-                }
+                "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/mmdx9jxcu2i-mwkkxpgt",
+                "type": "Canvas"
               }
             },
             {
@@ -255,17 +219,8 @@
               "motivation": "linking",
               "target": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/i2tibfgdzei-mwkkxpbi#xywh=879,725,94,171",
               "body": {
-                "type": "SpecificResource",
-                "source": {
-                  "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/i3ztwonpkgl-mwkkxpra",
-                  "type": "Canvas",
-                  "partOf": [
-                    {
-                      "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json",
-                      "type": "Manifest"
-                    }
-                  ]
-                }
+                "id": "https://raw.githubusercontent.com/RaRa-digiLab/iiif-andmeamps/main/manifestid/ausambad-kaardil.json/canvas/i3ztwonpkgl-mwkkxpra",
+                "type": "Canvas"
               }
             }
           ]
@@ -1013,7 +968,7 @@
       "width": 525,
       "label": {
         "en": [
-          "Gustav Adolf"
+          "Tartu Gustav Adolf"
         ]
       },
       "items": [
